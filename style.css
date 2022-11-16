@@ -1,0 +1,27 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 10px 15px grey;
+}
+
+.note {
+font-size: 15px;
+color: lightcoral;;
+}
+
+.copy_right_footer {
+position: fixed;
+font-weight: bold;
+width: 100%;
+bottom: 0;
+margin-left: 1550px;
+}
+
+canvas {
+    border: 7px solid lightblue;
+    border-radius: 20px;
+    box-shadow: 10px 5px 15px grey;
+
+}
+
